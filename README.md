@@ -11,7 +11,9 @@ Default files in folder:
 
 - **overviewWithCaseID.txt** - Similar to overview.txt, but contains the specific Case ID instead of merely total number of cases for each type
 
--- Output files which will be written to OUTPUT_CASE_DATA:
+***
+
+Output files which will be written to OUTPUT_CASE_DATA:
 - cases_lostCase_byClient_byMonth.csv - How many lost cases (Terminated by clients) per month (by ID)
 - cases_lostCase_byOMH_byMonth.csv - How many lost cases (Terminated by clients) per month (by ID)
 - cases_lostCase_byOtherAgents_byMonth.csv - How many lost cases (Terminated by clients) per month (by ID)
